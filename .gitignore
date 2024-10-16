@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# VS Code settings folder
+.vscode/
+
+# Virtual environment directories
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
