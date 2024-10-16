@@ -18,18 +18,18 @@ Celebrate when you guess the number correctly 🎉!
 
 💻 Installation:
 
-Clone this repository:
+1. Clone this repository:
      ```bash
 
     git clone https://github.com/Suchitapatil22/mystery-number-.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
     ```bash
 
     cd mystery-number-
 
-Run the game in Python:
+3. Run the game in Python:
 
     ```bash
     python project.py
